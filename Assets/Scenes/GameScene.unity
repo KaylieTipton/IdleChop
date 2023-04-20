@@ -342,7 +342,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 141092790}
         m_TargetAssemblyTypeName: TreeButton, Assembly-CSharp
-        m_MethodName: Buy
+        m_MethodName: TreeAction
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -606,7 +606,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9005527729240744948, guid: 219b77bd1618b914faf130fc6041cfc7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: TreeAction
+      value: Buy
       objectReference: {fileID: 0}
     - target: {fileID: 9005527729240744948, guid: 219b77bd1618b914faf130fc6041cfc7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
